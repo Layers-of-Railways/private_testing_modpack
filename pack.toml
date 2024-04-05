@@ -1,0 +1,13 @@
+name = "SnR Private Tests"
+author = "Slimeist"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ace16bf09bff68e43ea84b0494e0c395030a228e8919a73780e3c68c776fab7f"
+
+[versions]
+fabric = "0.15.9"
+minecraft = "1.20.1"

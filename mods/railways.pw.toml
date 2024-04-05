@@ -1,0 +1,9 @@
+name = "Steam_Rails"
+filename = "Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1235.jar"
+side = "both"
+
+[download]
+url = "https://maven.ithundxr.dev/snapshots/com/railwayteam/railways/Steam_Rails-fabric-1.20.1/1.6.0+fabric-mc1.20.1-build.1235/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1235.jar"
+
+hash-format = "sha256"
+hash = "842f308ba96a1be85ede7e6b8dd22a2b0a7544251969fd4afb3bf15f8a35badf"
