@@ -36,6 +36,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/railways.pw.toml"
 hash = "5cbd0f2f5b887c524dd9f45134daf1da99afc97c2503296bb39b5bc794b38e5d"
 metafile = true
