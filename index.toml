@@ -21,6 +21,11 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/railways.pw.toml"
 hash = "5cbd0f2f5b887c524dd9f45134daf1da99afc97c2503296bb39b5bc794b38e5d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d9e91f4215e627647093687adfbb3c7ca433d40b59fe5ab8931fab175f82fab6"
 metafile = true
 
 [[files]]
