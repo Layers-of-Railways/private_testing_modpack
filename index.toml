@@ -21,6 +21,11 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "75ae35db534fd000d29631884ea2a10f81dd49fb3cb3ea426cb6901ca2a30bdf"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
