@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
