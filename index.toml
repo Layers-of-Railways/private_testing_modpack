@@ -60,11 +60,6 @@ file = "mods/phonos-1.0.0-beta.12+1.20.1.jar"
 hash = "fee20710b2a72081622395e1d1fac20f9b16e67e0c29b3c2795fca3881eb7db1"
 
 [[files]]
-file = "mods/phonos.pw.toml"
-hash = "44f7ff8812d591ce9c532b475408add8363d2e6ecfc5514ff74d6fd387239e91"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d9e91f4215e627647093687adfbb3c7ca433d40b59fe5ab8931fab175f82fab6"
 metafile = true
