@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -56,8 +56,8 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.0.0-beta.16+1.20.1.jar"
-hash = "19f937cff90385b65eb45429f20cee68cdb1e0642f3fbdfed756f7d3c086c70e"
+file = "mods/phonos-1.0.0-beta.17+1.20.1.jar"
+hash = "97da113108586ba7c41d46d6e73ddc0825c3feb805a5505b9253a5a5a09f6dff"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -67,4 +67,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e012c2d48d8c2ef08e8a77a83476db46a81f9a5ee3aa90e5c57e2af508bd9089"
 metafile = true
