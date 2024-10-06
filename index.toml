@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "enable_hooks.sh"
-hash = "892e8a9b42348843b23cf888c936ae15291da48c8c582d2b5fab05a4f056ec70"
-
-[[files]]
-file = "git/hooks/pre-commit"
-hash = "bece9b1755dda64414f9ed15d34a0b6afa1dd98f29204d056f42b56ee2e883a7"
-
-[[files]]
-file = "git/hooks/pre-merge-commit"
-hash = "62d0421c3c978cf8571e9084657e6d14245f88a66516147771463ee611ce992d"
-
-[[files]]
 file = "mods/ACME_Admin-0.1.0-beta.1+ACMEAdminTools-mc1.20.1-local.jar"
 hash = "6c10107baf175d5ba074d5b39624c1e8f94e41dfb4e80967366785192366ecc0"
 

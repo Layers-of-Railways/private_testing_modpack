@@ -5,3 +5,8 @@ output/
 README.md
 packwiz.ini
 unsup.ini
+
+# Exclude packwiz git hooks and utils
+git
+/enable_hooks.sh
+enable_hooks.sh
