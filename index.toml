@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ACME_Admin-0.1.0-beta.1+ACMEAdminTools-mc1.20.1-local.jar"
-hash = "6c10107baf175d5ba074d5b39624c1e8f94e41dfb4e80967366785192366ecc0"
+hash = "b11025d0838b52f55efc3b760abb3f1860ccb43172fedf61350bdd09b3881847"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
